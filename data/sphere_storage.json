@@ -1,0 +1,959 @@
+{
+  "users": [
+    [
+      "usr_loopin_yourchoice_01",
+      {
+        "userId": "usr_loopin_yourchoice_01",
+        "mailboxId": "mbx_sph_choice_01",
+        "loopinAccountId": "lpn_acc_yourchoice_01",
+        "username": "yourname",
+        "displayName": "Your Name",
+        "sphereEmail": "yourname@yourchoice.com",
+        "passwordHash": "083072a3077c9a366cdc4e5264035953a2d9354821409ed98be5bcc92ff5e231bd23388556140775c2f55bde5348bfceebec8cef8cbf091a5f3c85d757c8a2ad",
+        "salt": "5a69523bc502bef4adc6a2f99908162f",
+        "tier": "sovereign",
+        "isVerified": true,
+        "twoFactorEnabled": true,
+        "createdAt": "2026-09-01T10:00:00Z",
+        "lastLoginIp": "2409:40c1:101d:f3fd:e809:2f1c:2ef5:b8e, 169.254.169.126",
+        "lastLoginUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "failedLoginAttempts": 0
+      }
+    ],
+    [
+      "yourname@yourchoice.com",
+      {
+        "userId": "usr_loopin_yourchoice_01",
+        "mailboxId": "mbx_sph_choice_01",
+        "loopinAccountId": "lpn_acc_yourchoice_01",
+        "username": "yourname",
+        "displayName": "Your Name",
+        "sphereEmail": "yourname@yourchoice.com",
+        "passwordHash": "083072a3077c9a366cdc4e5264035953a2d9354821409ed98be5bcc92ff5e231bd23388556140775c2f55bde5348bfceebec8cef8cbf091a5f3c85d757c8a2ad",
+        "salt": "5a69523bc502bef4adc6a2f99908162f",
+        "tier": "sovereign",
+        "isVerified": true,
+        "twoFactorEnabled": true,
+        "createdAt": "2026-09-01T10:00:00Z",
+        "lastLoginIp": "2409:40c1:101d:f3fd:e809:2f1c:2ef5:b8e, 169.254.169.126",
+        "lastLoginUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "failedLoginAttempts": 0
+      }
+    ],
+    [
+      "yourname",
+      {
+        "userId": "usr_loopin_yourchoice_01",
+        "mailboxId": "mbx_sph_choice_01",
+        "loopinAccountId": "lpn_acc_yourchoice_01",
+        "username": "yourname",
+        "displayName": "Your Name",
+        "sphereEmail": "yourname@yourchoice.com",
+        "passwordHash": "083072a3077c9a366cdc4e5264035953a2d9354821409ed98be5bcc92ff5e231bd23388556140775c2f55bde5348bfceebec8cef8cbf091a5f3c85d757c8a2ad",
+        "salt": "5a69523bc502bef4adc6a2f99908162f",
+        "tier": "sovereign",
+        "isVerified": true,
+        "twoFactorEnabled": true,
+        "createdAt": "2026-09-01T10:00:00Z",
+        "lastLoginIp": "2409:40c1:101d:f3fd:e809:2f1c:2ef5:b8e, 169.254.169.126",
+        "lastLoginUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "failedLoginAttempts": 0
+      }
+    ],
+    [
+      "usr_loopin_982143",
+      {
+        "userId": "usr_loopin_982143",
+        "mailboxId": "mbx_sph_77491",
+        "loopinAccountId": "lpn_acc_449210",
+        "username": "alex.mercer",
+        "displayName": "Alex Mercer",
+        "sphereEmail": "alex.mercer@yourname.com",
+        "passwordHash": "378c692a8b640b040ee27c3422c6489232a4605219911a94ac0ff67273d97fde8997f3a9089e5210fdbfd81092c336f33653d915f8b0077159b922ca7b8b33ec",
+        "salt": "67fe96b7d3f64a13b4379d73ff659a9f",
+        "tier": "founder",
+        "isVerified": true,
+        "twoFactorEnabled": true,
+        "createdAt": "2026-03-15T09:30:00Z",
+        "lastLoginIp": "198.51.100.42",
+        "lastLoginUserAgent": "Sphere Desktop Agent / Mozilla 5.0 (Linux x86_64)",
+        "failedLoginAttempts": 0
+      }
+    ],
+    [
+      "alex.mercer@yourname.com",
+      {
+        "userId": "usr_loopin_982143",
+        "mailboxId": "mbx_sph_77491",
+        "loopinAccountId": "lpn_acc_449210",
+        "username": "alex.mercer",
+        "displayName": "Alex Mercer",
+        "sphereEmail": "alex.mercer@yourname.com",
+        "passwordHash": "378c692a8b640b040ee27c3422c6489232a4605219911a94ac0ff67273d97fde8997f3a9089e5210fdbfd81092c336f33653d915f8b0077159b922ca7b8b33ec",
+        "salt": "67fe96b7d3f64a13b4379d73ff659a9f",
+        "tier": "founder",
+        "isVerified": true,
+        "twoFactorEnabled": true,
+        "createdAt": "2026-03-15T09:30:00Z",
+        "lastLoginIp": "198.51.100.42",
+        "lastLoginUserAgent": "Sphere Desktop Agent / Mozilla 5.0 (Linux x86_64)",
+        "failedLoginAttempts": 0
+      }
+    ],
+    [
+      "alex.mercer@spheremail.net",
+      {
+        "userId": "usr_loopin_982143",
+        "mailboxId": "mbx_sph_77491",
+        "loopinAccountId": "lpn_acc_449210",
+        "username": "alex.mercer",
+        "displayName": "Alex Mercer",
+        "sphereEmail": "alex.mercer@yourname.com",
+        "passwordHash": "378c692a8b640b040ee27c3422c6489232a4605219911a94ac0ff67273d97fde8997f3a9089e5210fdbfd81092c336f33653d915f8b0077159b922ca7b8b33ec",
+        "salt": "67fe96b7d3f64a13b4379d73ff659a9f",
+        "tier": "founder",
+        "isVerified": true,
+        "twoFactorEnabled": true,
+        "createdAt": "2026-03-15T09:30:00Z",
+        "lastLoginIp": "198.51.100.42",
+        "lastLoginUserAgent": "Sphere Desktop Agent / Mozilla 5.0 (Linux x86_64)",
+        "failedLoginAttempts": 0
+      }
+    ],
+    [
+      "alex.mercer",
+      {
+        "userId": "usr_loopin_982143",
+        "mailboxId": "mbx_sph_77491",
+        "loopinAccountId": "lpn_acc_449210",
+        "username": "alex.mercer",
+        "displayName": "Alex Mercer",
+        "sphereEmail": "alex.mercer@yourname.com",
+        "passwordHash": "378c692a8b640b040ee27c3422c6489232a4605219911a94ac0ff67273d97fde8997f3a9089e5210fdbfd81092c336f33653d915f8b0077159b922ca7b8b33ec",
+        "salt": "67fe96b7d3f64a13b4379d73ff659a9f",
+        "tier": "founder",
+        "isVerified": true,
+        "twoFactorEnabled": true,
+        "createdAt": "2026-03-15T09:30:00Z",
+        "lastLoginIp": "198.51.100.42",
+        "lastLoginUserAgent": "Sphere Desktop Agent / Mozilla 5.0 (Linux x86_64)",
+        "failedLoginAttempts": 0
+      }
+    ],
+    [
+      "usr_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+      {
+        "userId": "usr_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "mailboxId": "mbx_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "loopinAccountId": "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "username": "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "displayName": "Sphere 8293",
+        "sphereEmail": "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd@spheremail.net",
+        "passwordHash": "5a6fdb68ae93e3aa89ba9e3d422c04884f8d7f831017daa4dbb93c89b41585ecde9bf6b3f5fb22ee2dd41584938b5160eb6e70b76caf625de8d01c91c970ceb3",
+        "salt": "690a4a934576f3a71d7acfa1ccd20d3a",
+        "tier": "sovereign",
+        "isVerified": true,
+        "twoFactorEnabled": false,
+        "createdAt": "2026-09-09T05:30:00Z",
+        "lastLoginIp": "127.0.0.1",
+        "lastLoginUserAgent": "curl/7.88.1",
+        "failedLoginAttempts": 0
+      }
+    ],
+    [
+      "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd@spheremail.net",
+      {
+        "userId": "usr_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "mailboxId": "mbx_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "loopinAccountId": "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "username": "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "displayName": "Sphere 8293",
+        "sphereEmail": "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd@spheremail.net",
+        "passwordHash": "5a6fdb68ae93e3aa89ba9e3d422c04884f8d7f831017daa4dbb93c89b41585ecde9bf6b3f5fb22ee2dd41584938b5160eb6e70b76caf625de8d01c91c970ceb3",
+        "salt": "690a4a934576f3a71d7acfa1ccd20d3a",
+        "tier": "sovereign",
+        "isVerified": true,
+        "twoFactorEnabled": false,
+        "createdAt": "2026-09-09T05:30:00Z",
+        "lastLoginIp": "198.51.100.42",
+        "lastLoginUserAgent": "Sphere Sovereign Client / Linux x86_64",
+        "failedLoginAttempts": 0
+      }
+    ],
+    [
+      "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+      {
+        "userId": "usr_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "mailboxId": "mbx_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "loopinAccountId": "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "username": "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "displayName": "Sphere 8293",
+        "sphereEmail": "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd@spheremail.net",
+        "passwordHash": "5a6fdb68ae93e3aa89ba9e3d422c04884f8d7f831017daa4dbb93c89b41585ecde9bf6b3f5fb22ee2dd41584938b5160eb6e70b76caf625de8d01c91c970ceb3",
+        "salt": "690a4a934576f3a71d7acfa1ccd20d3a",
+        "tier": "sovereign",
+        "isVerified": true,
+        "twoFactorEnabled": false,
+        "createdAt": "2026-09-09T05:30:00Z",
+        "lastLoginIp": "198.51.100.42",
+        "lastLoginUserAgent": "Sphere Sovereign Client / Linux x86_64",
+        "failedLoginAttempts": 0
+      }
+    ],
+    [
+      "sphere8293",
+      {
+        "userId": "usr_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "mailboxId": "mbx_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "loopinAccountId": "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "username": "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "displayName": "Sphere 8293",
+        "sphereEmail": "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd@spheremail.net",
+        "passwordHash": "5a6fdb68ae93e3aa89ba9e3d422c04884f8d7f831017daa4dbb93c89b41585ecde9bf6b3f5fb22ee2dd41584938b5160eb6e70b76caf625de8d01c91c970ceb3",
+        "salt": "690a4a934576f3a71d7acfa1ccd20d3a",
+        "tier": "sovereign",
+        "isVerified": true,
+        "twoFactorEnabled": false,
+        "createdAt": "2026-09-09T05:30:00Z",
+        "lastLoginIp": "198.51.100.42",
+        "lastLoginUserAgent": "Sphere Sovereign Client / Linux x86_64",
+        "failedLoginAttempts": 0
+      }
+    ]
+  ],
+  "sessions": [
+    [
+      "sph_session_seed_token_master_994",
+      {
+        "userId": "usr_loopin_yourchoice_01",
+        "createdAt": 1788956367817,
+        "expiresAt": 1820493276400,
+        "ip": "198.51.100.42"
+      }
+    ],
+    [
+      "sph_session_alex_mercer_token",
+      {
+        "userId": "usr_loopin_982143",
+        "createdAt": 1788956367817,
+        "expiresAt": 1820493276400,
+        "ip": "198.51.100.42"
+      }
+    ],
+    [
+      "sph_session_63437abfd0238ff33240603e03b669d2a8809848ee4dd46b",
+      {
+        "userId": "usr_loopin_yourchoice_01",
+        "createdAt": 1788956987501,
+        "expiresAt": 1820493276400,
+        "ip": "2409:40c1:101d:f3fd:e809:2f1c:2ef5:b8e, 169.254.169.126"
+      }
+    ],
+    [
+      "sph_session_53814a86e545bf0734a3bca0202a89941835d5711d08bc62",
+      {
+        "userId": "usr_loopin_yourchoice_01",
+        "createdAt": 1788956987615,
+        "expiresAt": 1820493276400,
+        "ip": "2409:40c1:101d:f3fd:e809:2f1c:2ef5:b8e, 169.254.169.126"
+      }
+    ],
+    [
+      "sph_session_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+      {
+        "userId": "usr_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "createdAt": 1788957254893,
+        "expiresAt": 1820493276400,
+        "ip": "198.51.100.42"
+      }
+    ],
+    [
+      "sph_session_e5b5a79e370d38f6043f93f1a2bcc521827da98ee9f9962e",
+      {
+        "userId": "usr_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "createdAt": 1788957280710,
+        "expiresAt": 1820493280710,
+        "ip": "127.0.0.1"
+      }
+    ]
+  ],
+  "emails": [
+    [
+      "eml_sph_01",
+      {
+        "id": "eml_sph_01",
+        "mailboxId": "mbx_sph_77491",
+        "sender": {
+          "name": "Loopin Security Enclave",
+          "address": "security-ops@spheremail.net",
+          "isSphereInternal": true
+        },
+        "recipients": [
+          {
+            "name": "Alex Mercer",
+            "address": "alex.mercer@yourname.com",
+            "isSphereInternal": true
+          }
+        ],
+        "subject": "[Official] Sphere Security Alert: Personal Digital Server isolation confirmed",
+        "preview": "Your private virtual storage enclave has been bound to your Sphere Mailbox ID (mbx_sph_77491). Hardware-level attestation active...",
+        "bodyHtml": "\n        <div style=\"font-family: inherit; color: #e2e8f0; line-height: 1.6;\">\n          <div style=\"display: inline-block; padding: 4px 12px; background: rgba(99, 102, 241, 0.15); border: 1px solid rgba(99, 102, 241, 0.35); border-radius: 6px; font-size: 12px; color: #a5b4fc; font-weight: 600; margin-bottom: 16px;\">\n            LOOPIN OFFICIAL COMMUNICATION • SECURITY ENCLAVE\n          </div>\n          <h2 style=\"font-size: 20px; font-weight: 700; color: #ffffff; margin-bottom: 12px;\">Personal Digital Server Isolation Attestation</h2>\n          <p>Hello Alex,</p>\n          <p>This automated security bulletin confirms that your <strong>Personal Digital Server (Node: srv_isolated_loopin_node_09)</strong> is active, isolated, and cryptographic zero-knowledge keys are held strictly by your device.</p>\n          <div style=\"margin: 20px 0; padding: 16px; background: rgba(255, 255, 255, 0.03); border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.08);\">\n            <div style=\"font-size: 13px; color: #94a3b8; margin-bottom: 6px;\">Internal Mailbox ID: <code style=\"color: #c084fc;\">mbx_sph_77491</code></div>\n            <div style=\"font-size: 13px; color: #94a3b8; margin-bottom: 6px;\">Linked Loopin Account: <code style=\"color: #c084fc;\">lpn_acc_449210</code></div>\n            <div style=\"font-size: 13px; color: #94a3b8; margin-bottom: 6px;\">Administrative Access Status: <strong style=\"color: #4ade80;\">Zero-Knowledge Protected (Founder/Admin access denied by protocol)</strong></div>\n            <div style=\"font-size: 13px; color: #94a3b8;\">Cryptographic Cipher: <code style=\"color: #c084fc;\">XChaCha20-Poly1305 + HSM Enclave</code></div>\n          </div>\n          <p>As part of Loopin's strict security charter, platform founders and staff cannot inspect your message bodies, attachments, or personal digital server storage.</p>\n          <p style=\"margin-top: 24px; color: #64748b; font-size: 13px;\">Sphere Mail Security Operations • Loopin Infrastructure Division</p>\n        </div>\n      ",
+        "bodyPlain": "Your Personal Digital Server isolation has been confirmed. Zero-Knowledge protection active.",
+        "timestamp": "2026-09-07T05:30:00Z",
+        "isRead": false,
+        "isStarred": true,
+        "folder": "inbox",
+        "tags": [
+          "Official",
+          "Security"
+        ],
+        "attachments": [
+          {
+            "id": "att_01",
+            "name": "isolation_attestation_manifest.json",
+            "size": 4820,
+            "mimeType": "application/json",
+            "storageNodeId": "obj_node_eu_01",
+            "checksum": "sha256-a94f82c091bc",
+            "isEncrypted": true
+          }
+        ],
+        "security": {
+          "isLoopinOfficial": true,
+          "officialCategory": "security_alert",
+          "spfVerified": true,
+          "dkimVerified": true,
+          "dmarcStatus": "pass",
+          "encryptedAtRest": true,
+          "tlsDelivery": true,
+          "zeroKnowledgeIsolation": true
+        }
+      }
+    ],
+    [
+      "eml_sph_02",
+      {
+        "id": "eml_sph_02",
+        "mailboxId": "mbx_sph_77491",
+        "sender": {
+          "name": "Elena Rostova",
+          "address": "elena.rostova@spheremail.net",
+          "isSphereInternal": true
+        },
+        "recipients": [
+          {
+            "name": "Alex Mercer",
+            "address": "alex.mercer@yourname.com",
+            "isSphereInternal": true
+          }
+        ],
+        "subject": "Loopin Sovereign Protocol Architecture review & personal server capacity",
+        "preview": "Hi Alex, I tested the dynamic expandable capacity model for the Personal Digital Server. The 1 YB vision framing matches our node federation roadmap perfectly...",
+        "bodyHtml": "\n        <div style=\"font-family: inherit; color: #e2e8f0; line-height: 1.6;\">\n          <p>Hi Alex,</p>\n          <p>I reviewed the architecture draft for the <strong>Personal Digital Server + Storage</strong> integration.</p>\n          <p>A few highlights I really appreciate in our implementation:</p>\n          <ul style=\"padding-left: 20px; margin: 12px 0;\">\n            <li style=\"margin-bottom: 8px;\"><strong>Honest Storage Philosophy:</strong> Making it explicit that the 1 YB mark is our long-term architectural scaling ceiling rather than faking physical allocation preserves our engineering credibility.</li>\n            <li style=\"margin-bottom: 8px;\"><strong>Object Storage Separation:</strong> Separating database metadata, mail body enclaves, and attachments into object storage clusters prevents bloating.</li>\n            <li style=\"margin-bottom: 8px;\"><strong>Internal User ID / Mailbox ID decoupling:</strong> Sphere social profile admins cannot inspect private mailboxes.</li>\n          </ul>\n          <p>Have you had a chance to test sending to external domains when the SMTP relay is disconnected? The system's transparent diagnostics are crisp and prevent false delivery expectations.</p>\n          <p>Attached is the updated architecture diagram for Loopin Founders Symposium.</p>\n          <p style=\"margin-top: 20px;\">Best regards,<br/>Elena Rostova<br/>Lead Systems Architect, Loopin</p>\n        </div>\n      ",
+        "bodyPlain": "Hi Alex, I reviewed the architecture draft for the Personal Digital Server + Storage integration...",
+        "timestamp": "2026-09-06T18:15:00Z",
+        "isRead": true,
+        "isStarred": true,
+        "folder": "inbox",
+        "tags": [
+          "Architecture",
+          "Loopin"
+        ],
+        "attachments": [
+          {
+            "id": "att_02",
+            "name": "Loopin_Founders_Symposium_Architecture.png",
+            "size": 5800000,
+            "mimeType": "image/png",
+            "storageNodeId": "obj_node_eu_03",
+            "checksum": "sha256-4c927f8812e",
+            "isEncrypted": true
+          }
+        ],
+        "security": {
+          "spfVerified": true,
+          "dkimVerified": true,
+          "dmarcStatus": "pass",
+          "encryptedAtRest": true,
+          "tlsDelivery": true,
+          "zeroKnowledgeIsolation": true
+        }
+      }
+    ],
+    [
+      "eml_sph_03",
+      {
+        "id": "eml_sph_03",
+        "mailboxId": "mbx_sph_77491",
+        "sender": {
+          "name": "Sphere Account Services",
+          "address": "accounts@spheremail.net",
+          "isSphereInternal": true
+        },
+        "recipients": [
+          {
+            "name": "Alex Mercer",
+            "address": "alex.mercer@yourname.com",
+            "isSphereInternal": true
+          }
+        ],
+        "subject": "[Official] Sphere Login Alert: New device authenticated in Frankfurt",
+        "preview": "Sphere detected an authorized authentication session from IP 198.51.100.42 (Sphere Desktop Agent). If this was you, no action is required.",
+        "bodyHtml": "\n        <div style=\"font-family: inherit; color: #e2e8f0; line-height: 1.6;\">\n          <div style=\"display: inline-block; padding: 4px 12px; background: rgba(16, 185, 129, 0.15); border: 1px solid rgba(16, 185, 129, 0.35); border-radius: 6px; font-size: 12px; color: #6ee7b7; font-weight: 600; margin-bottom: 16px;\">\n            LOOPIN OFFICIAL COMMUNICATION • LOGIN EVENT\n          </div>\n          <h2 style=\"font-size: 18px; font-weight: 700; color: #ffffff; margin-bottom: 8px;\">Authorized Session Established</h2>\n          <p>Sphere Mail detected a verified login for your account <code>alex.mercer@spheremail.net</code>.</p>\n          <div style=\"background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); padding: 14px; border-radius: 8px; margin: 16px 0;\">\n            <p style=\"margin: 0 0 6px 0;\"><strong>Timestamp:</strong> 2026-09-07 05:12:00 UTC</p>\n            <p style=\"margin: 0 0 6px 0;\"><strong>IP Address:</strong> 198.51.100.42</p>\n            <p style=\"margin: 0 0 6px 0;\"><strong>Client:</strong> Sphere Sovereign Web Client (Vite/React 19)</p>\n            <p style=\"margin: 0;\"><strong>Two-Factor Status:</strong> Hardware Enclave Attested ✓</p>\n          </div>\n          <p style=\"color: #94a3b8; font-size: 13px;\">If you did not initiate this login, you can immediately freeze all active sessions from your Sphere Mail Settings.</p>\n        </div>\n      ",
+        "bodyPlain": "Sphere Login Alert: New device authenticated in Frankfurt. IP: 198.51.100.42.",
+        "timestamp": "2026-09-06T09:20:00Z",
+        "isRead": true,
+        "isStarred": false,
+        "folder": "inbox",
+        "tags": [
+          "Official"
+        ],
+        "attachments": [],
+        "security": {
+          "isLoopinOfficial": true,
+          "officialCategory": "login_alert",
+          "spfVerified": true,
+          "dkimVerified": true,
+          "dmarcStatus": "pass",
+          "encryptedAtRest": true,
+          "tlsDelivery": true,
+          "zeroKnowledgeIsolation": true
+        }
+      }
+    ],
+    [
+      "eml_sph_04",
+      {
+        "id": "eml_sph_04",
+        "mailboxId": "mbx_sph_77491",
+        "sender": {
+          "name": "Julian Vance",
+          "address": "julian.vance@spheremail.net",
+          "isSphereInternal": true
+        },
+        "recipients": [
+          {
+            "name": "Alex Mercer",
+            "address": "alex.mercer@yourname.com",
+            "isSphereInternal": true
+          }
+        ],
+        "subject": "Personal Digital Server: Photos and Encrypted Vault categorization",
+        "preview": "I dropped the raw cryptographic keys into my personal server vault. The auto-categorization between Mail Attachments and Personal Files works smoothly...",
+        "bodyHtml": "\n        <div style=\"font-family: inherit; color: #e2e8f0; line-height: 1.6;\">\n          <p>Alex,</p>\n          <p>Quick note on the Personal Digital Server file system: the separation between <code>mail_attachment</code> and <code>personal_file</code> makes tracking storage allocation effortless.</p>\n          <p>I also verified that my server shows <strong>Online</strong> status and that the connected services (Sphere Social, Sphere Mail, Sphere Storage, Loopin AI) display their individual isolation scopes.</p>\n          <p>Catch you at the product sync tomorrow!</p>\n          <p style=\"margin-top: 16px;\">— Julian</p>\n        </div>\n      ",
+        "bodyPlain": "Alex, Quick note on the Personal Digital Server file system...",
+        "timestamp": "2026-09-05T14:10:00Z",
+        "isRead": true,
+        "isStarred": false,
+        "folder": "inbox",
+        "tags": [
+          "Personal Server"
+        ],
+        "attachments": [],
+        "security": {
+          "spfVerified": true,
+          "dkimVerified": true,
+          "dmarcStatus": "pass",
+          "encryptedAtRest": true,
+          "tlsDelivery": true,
+          "zeroKnowledgeIsolation": true
+        }
+      }
+    ],
+    [
+      "eml_sph_05",
+      {
+        "id": "eml_sph_05",
+        "mailboxId": "mbx_sph_77491",
+        "sender": {
+          "name": "External Audit Partner",
+          "address": "compliance@veritas-security.net",
+          "isSphereInternal": false
+        },
+        "recipients": [
+          {
+            "name": "Alex Mercer",
+            "address": "alex.mercer@yourname.com",
+            "isSphereInternal": true
+          }
+        ],
+        "subject": "Annual SOC3 & Zero-Knowledge Enclave Assessment Scope",
+        "preview": "Please find our confirmation of the zero-knowledge isolation boundary verification protocol for Loopin Sphere Mail and Personal Digital Server...",
+        "bodyHtml": "\n        <div style=\"font-family: inherit; color: #e2e8f0; line-height: 1.6;\">\n          <p>Dear Mr. Mercer,</p>\n          <p>Veritas Security has received the technical architecture whitepaper for <strong>Sphere Mail by Loopin</strong>.</p>\n          <p>We confirm our upcoming quarterly audit of:</p>\n          <ol style=\"padding-left: 20px; margin: 12px 0;\">\n            <li>Zero-knowledge key separation between Loopin administrative staff and user mailboxes.</li>\n            <li>Object storage access controls for personal digital server partitions.</li>\n            <li>SPF, DKIM, and DMARC ingress verification standards.</li>\n          </ol>\n          <p>Our findings will be published on the Loopin Trust Center upon completion.</p>\n          <p style=\"margin-top: 20px;\">Compliance Team<br/>Veritas Security Enclaves</p>\n        </div>\n      ",
+        "bodyPlain": "Dear Mr. Mercer, Veritas Security has received the technical architecture whitepaper...",
+        "timestamp": "2026-09-04T11:45:00Z",
+        "isRead": true,
+        "isStarred": false,
+        "folder": "archive",
+        "tags": [
+          "Security",
+          "Audit"
+        ],
+        "attachments": [],
+        "security": {
+          "spfVerified": true,
+          "dkimVerified": true,
+          "dmarcStatus": "pass",
+          "encryptedAtRest": true,
+          "tlsDelivery": true,
+          "zeroKnowledgeIsolation": true
+        }
+      }
+    ],
+    [
+      "eml_sph_06",
+      {
+        "id": "eml_sph_06",
+        "mailboxId": "mbx_sph_77491",
+        "sender": {
+          "name": "Alex Mercer",
+          "address": "alex.mercer@yourname.com",
+          "isSphereInternal": true
+        },
+        "recipients": [
+          {
+            "name": "Elena Rostova",
+            "address": "elena.rostova@spheremail.net",
+            "isSphereInternal": true
+          }
+        ],
+        "subject": "Re: Loopin Sovereign Protocol Architecture review",
+        "preview": "Elena, great feedback. I will present the Personal Digital Server expandable capacity model at the symposium next week...",
+        "bodyHtml": "\n        <div style=\"font-family: inherit; color: #e2e8f0; line-height: 1.6;\">\n          <p>Elena,</p>\n          <p>Great feedback. I will present the Personal Digital Server expandable capacity model at the symposium next week.</p>\n          <p>The key point is making sure users know their data is logically isolated and truly encrypted at rest.</p>\n          <p style=\"margin-top: 16px;\">— Alex</p>\n        </div>\n      ",
+        "bodyPlain": "Elena, Great feedback. I will present the Personal Digital Server expandable capacity model...",
+        "timestamp": "2026-09-06T19:00:00Z",
+        "isRead": true,
+        "isStarred": false,
+        "folder": "sent",
+        "tags": [
+          "Architecture"
+        ],
+        "attachments": [],
+        "security": {
+          "spfVerified": true,
+          "dkimVerified": true,
+          "dmarcStatus": "pass",
+          "encryptedAtRest": true,
+          "tlsDelivery": true,
+          "zeroKnowledgeIsolation": true
+        },
+        "deliveryStatus": {
+          "status": "internal_delivered",
+          "transportDiagnostics": "Delivered via Loopin Internal Sovereign Bus (P2P Enclave to Enclave). Delivery confirmed with cryptographic receipt.",
+          "deliveredAt": "2026-09-06T19:00:02Z",
+          "nodeRoute": "node-mesh-09 -> node-mesh-02"
+        }
+      }
+    ],
+    [
+      "eml_sph_07",
+      {
+        "id": "eml_sph_07",
+        "mailboxId": "mbx_sph_77491",
+        "sender": {
+          "name": "Alex Mercer",
+          "address": "alex.mercer@yourname.com",
+          "isSphereInternal": true
+        },
+        "recipients": [
+          {
+            "name": "External Client",
+            "address": "contact@partner-enterprise.com",
+            "isSphereInternal": false
+          }
+        ],
+        "subject": "Loopin Sphere Mail enterprise deployment preview",
+        "preview": "Draft outline for enterprise sovereign mail clusters and personal server federations...",
+        "bodyHtml": "\n        <div style=\"font-family: inherit; color: #e2e8f0; line-height: 1.6;\">\n          <p>Draft outline for enterprise sovereign mail clusters and personal server federations.</p>\n          <p>Includes high-level specifications for on-premise personal server nodes.</p>\n        </div>\n      ",
+        "bodyPlain": "Draft outline for enterprise sovereign mail clusters and personal server federations.",
+        "timestamp": "2026-09-06T10:15:00Z",
+        "isRead": true,
+        "isStarred": false,
+        "folder": "drafts",
+        "tags": [],
+        "attachments": [],
+        "security": {
+          "spfVerified": false,
+          "dkimVerified": false,
+          "dmarcStatus": "neutral",
+          "encryptedAtRest": true,
+          "tlsDelivery": false,
+          "zeroKnowledgeIsolation": true
+        },
+        "deliveryStatus": {
+          "status": "draft",
+          "transportDiagnostics": "Draft saved in isolated enclave store."
+        }
+      }
+    ],
+    [
+      "eml_ch_01",
+      {
+        "id": "eml_ch_01",
+        "mailboxId": "mbx_sph_choice_01",
+        "sender": {
+          "name": "Loopin Sovereign Operations",
+          "address": "welcome@loopin.com",
+          "isSphereInternal": true
+        },
+        "recipients": [
+          {
+            "name": "Your Name",
+            "address": "yourname@yourchoice.com",
+            "isSphereInternal": true
+          }
+        ],
+        "subject": "[Official] Welcome to Sphere Mail on your custom domain: yourname@yourchoice.com",
+        "preview": "Your sovereign mailbox is active on your custom domain @yourchoice.com without requiring DNS or server configuration. Your emails, personal server files, and zero-knowledge keys are safely stored...",
+        "bodyHtml": "\n        <div style=\"font-family: inherit; color: #e2e8f0; line-height: 1.6;\">\n          <div style=\"display: inline-block; padding: 4px 12px; background: rgba(99, 102, 241, 0.15); border: 1px solid rgba(99, 102, 241, 0.35); border-radius: 6px; font-size: 12px; color: #a5b4fc; font-weight: 600; margin-bottom: 16px;\">\n            LOOPIN SOVEREIGN IDENTITY • ZERO-CONFIG DOMAINS\n          </div>\n          <h2 style=\"font-size: 20px; font-weight: 700; color: #ffffff; margin-bottom: 12px;\">Your Custom Domain Mailbox is Active</h2>\n          <p>Hello Your Name,</p>\n          <p>Welcome to <strong>Sphere Mail by Loopin</strong>. You have claimed your personal identity as <strong>yourname@yourchoice.com</strong>.</p>\n          <div style=\"margin: 20px 0; padding: 16px; background: rgba(255, 255, 255, 0.03); border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.08);\">\n            <div style=\"font-size: 13px; color: #94a3b8; margin-bottom: 6px;\">Your Sphere Address: <code style=\"color: #c084fc; font-weight: bold;\">yourname@yourchoice.com</code></div>\n            <div style=\"font-size: 13px; color: #94a3b8; margin-bottom: 6px;\">Domain Config Mode: <strong style=\"color: #4ade80;\">User-Decided Domain (No DNS/Server config required)</strong></div>\n            <div style=\"font-size: 13px; color: #94a3b8; margin-bottom: 6px;\">Data & Email Storage: <strong style=\"color: #4ade80;\">Encrypted & Persisted on Disk</strong></div>\n            <div style=\"font-size: 13px; color: #94a3b8;\">Personal Digital Server: <code style=\"color: #c084fc;\">50 GB Provisioned Baseline (Target 1 YB Vision)</code></div>\n          </div>\n          <p>You can send and receive emails across any custom domain on the network. All communications with registered peers occur with zero external hops over the sovereign bus.</p>\n          <p style=\"margin-top: 24px; color: #64748b; font-size: 13px;\">Sphere Mail Team • Loopin Sovereign Infrastructure</p>\n        </div>\n      ",
+        "bodyPlain": "Welcome to Sphere Mail. Your custom domain address yourname@yourchoice.com is active and stored.",
+        "timestamp": "2026-09-08T14:30:00Z",
+        "isRead": false,
+        "isStarred": true,
+        "folder": "inbox",
+        "tags": [
+          "Official",
+          "Custom Domain"
+        ],
+        "attachments": [
+          {
+            "id": "att_ch_01",
+            "name": "yourchoice_domain_manifest.json",
+            "size": 4280,
+            "mimeType": "application/json",
+            "storageNodeId": "obj_node_choice_01",
+            "checksum": "sha256-c87a12b09",
+            "isEncrypted": true
+          }
+        ],
+        "security": {
+          "isLoopinOfficial": true,
+          "officialCategory": "security_alert",
+          "spfVerified": true,
+          "dkimVerified": true,
+          "dmarcStatus": "pass",
+          "encryptedAtRest": true,
+          "tlsDelivery": true,
+          "zeroKnowledgeIsolation": true
+        }
+      }
+    ],
+    [
+      "eml_ch_02",
+      {
+        "id": "eml_ch_02",
+        "mailboxId": "mbx_sph_choice_01",
+        "sender": {
+          "name": "Alex Mercer",
+          "address": "alex.mercer@yourname.com",
+          "isSphereInternal": true
+        },
+        "recipients": [
+          {
+            "name": "Your Name",
+            "address": "yourname@yourchoice.com",
+            "isSphereInternal": true
+          }
+        ],
+        "subject": "Cross-Domain Sovereign Messaging: @yourchoice.com & @yourname.com",
+        "preview": "Hi! Testing peer-to-peer delivery between our custom domains. Notice how @yourchoice.com and @yourname.com can exchange messages instantly and keep them stored securely...",
+        "bodyHtml": "\n        <div style=\"font-family: inherit; color: #e2e8f0; line-height: 1.6;\">\n          <p>Hi,</p>\n          <p>I am sending this from my custom handle <strong>alex.mercer@yourname.com</strong> directly to your address <strong>yourname@yourchoice.com</strong>.</p>\n          <p>Because Sphere Mail allows users to decide their domain name freely without external DNS or server re-configuration, any user can create identities like <code>username@customdomain.com</code> and exchange messages seamlessly.</p>\n          <p>Both our messages and attachments are safely stored and retained across sessions.</p>\n          <p style=\"margin-top: 20px;\">Best regards,<br/>Alex Mercer<br/>alex.mercer@yourname.com</p>\n        </div>\n      ",
+        "bodyPlain": "Testing peer-to-peer delivery between custom domains @yourchoice.com and @yourname.com...",
+        "timestamp": "2026-09-08T15:10:00Z",
+        "isRead": false,
+        "isStarred": true,
+        "folder": "inbox",
+        "tags": [
+          "Internal P2P",
+          "Cross-Domain"
+        ],
+        "attachments": [],
+        "security": {
+          "spfVerified": true,
+          "dkimVerified": true,
+          "dmarcStatus": "pass",
+          "encryptedAtRest": true,
+          "tlsDelivery": true,
+          "zeroKnowledgeIsolation": true
+        }
+      }
+    ],
+    [
+      "eml_ch_03",
+      {
+        "id": "eml_ch_03",
+        "mailboxId": "mbx_sph_choice_01",
+        "sender": {
+          "name": "Elena Rostova",
+          "address": "elena.rostova@loopin.com",
+          "isSphereInternal": true
+        },
+        "recipients": [
+          {
+            "name": "Your Name",
+            "address": "yourname@yourchoice.com",
+            "isSphereInternal": true
+          }
+        ],
+        "subject": "Personal Digital Server & 1 YB Expandable Storage active",
+        "preview": "Elena from Loopin Architecture here. Your isolated Personal Digital Server is initialized for yourname@yourchoice.com. You can upload personal documents, manage attachments, and monitor health...",
+        "bodyHtml": "\n        <div style=\"font-family: inherit; color: #e2e8f0; line-height: 1.6;\">\n          <p>Hello,</p>\n          <p>Elena from Loopin Architecture here. We verified that your <strong>Personal Digital Server</strong> is active and linked to your <code>yourname@yourchoice.com</code> mailbox.</p>\n          <p>Features now available on your storage node:</p>\n          <ul style=\"padding-left: 20px; margin: 12px 0;\">\n            <li><strong>Encrypted Personal Vault:</strong> Store confidential files directly on your server node.</li>\n            <li><strong>Attachment Sync:</strong> Email attachments are automatically tracked in your storage breakdown.</li>\n            <li><strong>Expandable 1 YB Vision:</strong> Real nodes allocated dynamically on demand.</li>\n          </ul>\n          <p style=\"margin-top: 20px;\">Elena Rostova<br/>Lead Systems Architect, Loopin</p>\n        </div>\n      ",
+        "bodyPlain": "Elena from Loopin here. Your isolated Personal Digital Server is active for yourname@yourchoice.com...",
+        "timestamp": "2026-09-07T18:00:00Z",
+        "isRead": true,
+        "isStarred": false,
+        "folder": "inbox",
+        "tags": [
+          "Personal Server"
+        ],
+        "attachments": [],
+        "security": {
+          "spfVerified": true,
+          "dkimVerified": true,
+          "dmarcStatus": "pass",
+          "encryptedAtRest": true,
+          "tlsDelivery": true,
+          "zeroKnowledgeIsolation": true
+        }
+      }
+    ],
+    [
+      "eml_sov_welcome_sphere8293",
+      {
+        "id": "eml_sov_welcome_sphere8293",
+        "mailboxId": "mbx_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "sender": {
+          "name": "Loopin System Operations",
+          "address": "no-reply@loopin.com",
+          "isSphereInternal": true
+        },
+        "recipients": [
+          {
+            "name": "Sphere 8293",
+            "address": "sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd@spheremail.net",
+            "isSphereInternal": true
+          }
+        ],
+        "subject": "Welcome to Sphere Mail — Your mail for Sphere",
+        "preview": "Your sovereign mailbox sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd is initialized with Zero-Knowledge Enclave security and 1 YB sparse addressable storage...",
+        "bodyHtml": "\n        <div style=\"font-family: inherit; color: #e2e8f0; line-height: 1.6;\">\n          <div style=\"display: inline-block; padding: 4px 12px; background: rgba(147, 51, 234, 0.15); border: 1px solid rgba(147, 51, 234, 0.35); border-radius: 6px; font-size: 12px; color: #c084fc; font-weight: 600; margin-bottom: 16px;\">\n            LOOPIN SOVEREIGN ATTESTATION • SPHERE MAIL\n          </div>\n          <h2 style=\"font-size: 20px; font-weight: 700; color: #ffffff; margin-bottom: 12px;\">Sphere Mail — Your mail for Sphere</h2>\n          <p>Greetings,</p>\n          <p>Your sovereign address and mailbox <strong>sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd</strong> has been provisioned on the Sphere sovereign network under Loopin zero-knowledge protocols.</p>\n          <div style=\"background: rgba(15, 23, 42, 0.6); border: 1px solid rgba(148, 163, 184, 0.15); border-radius: 8px; padding: 16px; margin: 16px 0;\">\n            <p style=\"margin: 0 0 8px 0; font-weight: 600; color: #a855f7;\">Sovereign Node Parameters:</p>\n            <ul style=\"margin: 0; padding-left: 20px; font-family: monospace; font-size: 12px; color: #cbd5e1;\">\n              <li>Sovereign Email: sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd@spheremail.net</li>\n              <li>Identity Handle: sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd</li>\n              <li>Enclave Isolation: Verified Active</li>\n              <li>Storage Model: 1 YB Sparse Addressable Vision / 50 GB Physical NVMe Baseline</li>\n            </ul>\n          </div>\n          <p>Your mailbox contents and cryptographic private keys remain isolated from host inspection.</p>\n          <p style=\"margin-top: 20px; color: #94a3b8; font-size: 13px;\">Loopin Sovereign Operations Team<br/>Sphere Mail Protocol v2.4.0</p>\n        </div>\n      ",
+        "bodyPlain": "Sphere Mail — Your mail for Sphere\\n\\nYour sovereign mailbox sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd is initialized with Zero-Knowledge Enclave security.\\nEmail: sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd@spheremail.net",
+        "timestamp": "2026-09-09T05:30:00Z",
+        "isRead": false,
+        "isStarred": true,
+        "folder": "inbox",
+        "tags": [
+          "Official",
+          "Sovereign",
+          "Security"
+        ],
+        "attachments": [],
+        "security": {
+          "isLoopinOfficial": true,
+          "officialCategory": "account_activity",
+          "spfVerified": true,
+          "dkimVerified": true,
+          "dmarcStatus": "pass",
+          "encryptedAtRest": true,
+          "tlsDelivery": true,
+          "zeroKnowledgeIsolation": true
+        },
+        "deliveryStatus": {
+          "status": "internal_delivered",
+          "transportDiagnostics": "Delivered via Loopin Sovereign Bus (mTLS 1.3)",
+          "deliveredAt": "2026-09-09T05:30:00Z",
+          "nodeRoute": "node-nvme-sovereign-01"
+        }
+      }
+    ]
+  ],
+  "personalServers": [
+    [
+      "usr_loopin_yourchoice_01",
+      {
+        "userId": "usr_loopin_yourchoice_01",
+        "serverId": "srv_isolated_yourchoice_node_01",
+        "status": "online",
+        "nodeCluster": "yourchoice-sovereign-enclave-1",
+        "logicalIsolation": true,
+        "encryptionAlgorithm": "XChaCha20-Poly1305 (Zero-Knowledge Enclave Escrow)",
+        "baselineQuotaBytes": 53687091200,
+        "files": [
+          {
+            "id": "file_ch_01",
+            "name": "yourchoice.com_Sovereign_Root_Certificate.asc",
+            "size": 14200,
+            "type": "doc",
+            "category": "vault",
+            "uploadedAt": "2026-09-01T10:15:00Z",
+            "encrypted": true,
+            "storageNodeId": "obj_node_choice_01"
+          },
+          {
+            "id": "file_ch_02",
+            "name": "Zero_Config_Custom_Domains_Architecture.pdf",
+            "size": 2450000,
+            "type": "doc",
+            "category": "personal_file",
+            "uploadedAt": "2026-09-03T11:05:00Z",
+            "encrypted": true,
+            "storageNodeId": "obj_node_choice_02"
+          }
+        ],
+        "activityLog": [
+          {
+            "id": "act_ch_01",
+            "event": "Custom Domain Identity Bound",
+            "timestamp": "2026-09-01T10:00:00Z",
+            "ip": "198.51.100.42",
+            "status": "authorized",
+            "details": "Bound yourname@yourchoice.com to isolated node with zero-knowledge keys."
+          },
+          {
+            "id": "act_ch_02",
+            "event": "Personal Server Storage Verified",
+            "timestamp": "2026-09-07T05:12:00Z",
+            "ip": "198.51.100.42",
+            "status": "authorized",
+            "details": "Persistent disk storage verified. 1 YB scaling vision model online."
+          }
+        ]
+      }
+    ],
+    [
+      "usr_loopin_982143",
+      {
+        "userId": "usr_loopin_982143",
+        "serverId": "srv_isolated_loopin_node_09",
+        "status": "online",
+        "nodeCluster": "eu-west-isolated-enclave-3",
+        "logicalIsolation": true,
+        "encryptionAlgorithm": "XChaCha20-Poly1305 (Zero-Knowledge Enclave Escrow)",
+        "baselineQuotaBytes": 53687091200,
+        "files": [
+          {
+            "id": "file_01",
+            "name": "Loopin_Identity_Root_Certificate.asc",
+            "size": 14200,
+            "type": "doc",
+            "category": "vault",
+            "uploadedAt": "2026-08-12T14:20:00Z",
+            "encrypted": true,
+            "storageNodeId": "obj_node_eu_01"
+          },
+          {
+            "id": "file_02",
+            "name": "Sphere_Mail_Sovereign_Protocol_v2.pdf",
+            "size": 2450000,
+            "type": "doc",
+            "category": "personal_file",
+            "uploadedAt": "2026-08-25T11:05:00Z",
+            "encrypted": true,
+            "storageNodeId": "obj_node_eu_02"
+          },
+          {
+            "id": "file_03",
+            "name": "Loopin_Founders_Symposium_Architecture.png",
+            "size": 5800000,
+            "type": "image",
+            "category": "mail_attachment",
+            "uploadedAt": "2026-09-01T16:40:00Z",
+            "encrypted": true,
+            "storageNodeId": "obj_node_eu_03"
+          },
+          {
+            "id": "file_04",
+            "name": "Enclave_Storage_Backup_2026Q3.tar.gz",
+            "size": 18400000,
+            "type": "archive",
+            "category": "vault",
+            "uploadedAt": "2026-09-05T08:15:00Z",
+            "encrypted": true,
+            "storageNodeId": "obj_node_eu_04"
+          }
+        ],
+        "activityLog": [
+          {
+            "id": "act_01",
+            "event": "Server Enclave Handshake",
+            "timestamp": "2026-09-07T05:12:00Z",
+            "ip": "198.51.100.42",
+            "status": "authorized",
+            "details": "Hardware attestation verified via Loopin Sovereign Core."
+          },
+          {
+            "id": "act_02",
+            "event": "Mail Attachment Encrypted & Staged",
+            "timestamp": "2026-09-06T19:44:00Z",
+            "ip": "198.51.100.42",
+            "status": "authorized",
+            "details": "Stored to Object Node obj_node_eu_03 with user private key."
+          },
+          {
+            "id": "act_03",
+            "event": "Suspicious Gateway Probe Filtered",
+            "timestamp": "2026-09-05T03:22:10Z",
+            "ip": "103.22.201.14",
+            "status": "blocked",
+            "details": "Unauthorized relay attempt blocked by zero-knowledge boundary."
+          }
+        ]
+      }
+    ],
+    [
+      "usr_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+      {
+        "userId": "usr_sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd",
+        "serverId": "srv_sovereign_sphere8293dnfuuj",
+        "status": "online",
+        "nodeCluster": "sphere-sovereign-vault-01",
+        "logicalIsolation": true,
+        "encryptionAlgorithm": "XChaCha20-Poly1305 (Zero-Knowledge Enclave Escrow)",
+        "baselineQuotaBytes": 53687091200,
+        "files": [
+          {
+            "id": "file_sov_cert_01",
+            "name": "Sphere_Sovereign_Root_Enclave_Keys.asc",
+            "size": 16840,
+            "type": "doc",
+            "category": "vault",
+            "uploadedAt": "2026-09-09T05:30:00Z",
+            "encrypted": true,
+            "storageNodeId": "obj_node_sov_01"
+          },
+          {
+            "id": "file_sov_manifesto",
+            "name": "Sphere_Mail_Your_Mail_For_Sphere_Manifesto.pdf",
+            "size": 1450000,
+            "type": "doc",
+            "category": "personal_file",
+            "uploadedAt": "2026-09-09T05:30:00Z",
+            "encrypted": true,
+            "storageNodeId": "obj_node_sov_02"
+          }
+        ],
+        "activityLog": [
+          {
+            "id": "act_sov_01",
+            "event": "Sovereign Enclave Initialized",
+            "timestamp": "2026-09-09T05:30:00Z",
+            "ip": "198.51.100.42",
+            "status": "authorized",
+            "details": "Bound sovereign identifier sphere8293dnfuujejsaksakdqjfebrfjfjvvlfd with zero-knowledge keys."
+          }
+        ]
+      }
+    ]
+  ],
+  "adminAuditLogs": [
+    {
+      "id": "aud_01",
+      "adminId": "founder_adm_001",
+      "action": "SYSTEM_CLUSTER_HEALTH_CHECK",
+      "reason": "Routine quarterly storage node telemetry inspection",
+      "timestamp": "2026-09-07T02:00:00Z",
+      "targetScope": "Cluster yourchoice-sovereign-enclave-1",
+      "privateContentProtected": true
+    }
+  ]
+}

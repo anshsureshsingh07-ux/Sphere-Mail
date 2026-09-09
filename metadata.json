@@ -1,0 +1,7 @@
+{
+  "name": "Sphere Mail",
+  "description": "Sphere Mail — A modern, secure, and private email experience built for fast, seamless communication. Your inbox. Your sphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
